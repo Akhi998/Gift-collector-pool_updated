@@ -16,3 +16,5 @@
 
 
 
+
+| 4/20/2026 | <img src="archive/images/2026-04-20/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 4/20 500  ·  <img src="archive/images/2026-04-20/4ae2049e.png" width="90" style="vertical-align:middle; margin-right:6px;" />WWE Legacy Box - 4/20 x1  ·  <img src="archive/images/2026-04-20/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
