@@ -34,3 +34,5 @@
 | 4/27/2026 | <img src="archive/images/2026-04-27/ca13cc8d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 4/27 x1  ·  <img src="archive/images/2026-04-27/4ae2049e.png" width="90" style="vertical-align:middle; margin-right:6px;" />WWE Legacy Box - 4/27 x1  ·  <img src="archive/images/2026-04-27/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
 
 | 4/28/2026 | <img src="archive/images/2026-04-28/77747217.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 4/28 x1  ·  <img src="archive/images/2026-04-28/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
+
+| 4/29/2026 | <img src="archive/images/2026-04-29/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 4/29 x1  ·  <img src="archive/images/2026-04-29/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
