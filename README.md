@@ -37,3 +37,5 @@
 | 5/5/2026 | <img src="archive/images/2026-05-05/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 5/5 x1  ·  <img src="archive/images/2026-05-05/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
 
 | 5/7/2026 | <img src="archive/images/2026-05-07/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 5/7 1  ·  <img src="archive/images/2026-05-07/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
+
+| 5/8/2026 | <img src="archive/images/2026-05-08/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 5/8 x1  ·  <img src="archive/images/2026-05-08/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x2 |
