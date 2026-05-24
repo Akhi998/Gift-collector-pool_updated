@@ -67,3 +67,5 @@
 | 5/22/2026 | <img src="archive/images/2026-05-22/9c85639c.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 5/22 x1  ·  <img src="archive/images/2026-05-22/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x2 |
 
 | 5/23/2026 | <img src="archive/images/2026-05-23/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 5/23 500  ·  <img src="archive/images/2026-05-23/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
+
+| 5/24/2026 | <img src="archive/images/2026-05-24/d2756c4e.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 5/24 x1  ·  <img src="archive/images/2026-05-24/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
