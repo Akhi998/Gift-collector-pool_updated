@@ -75,3 +75,5 @@
 | 5/26/2026 | <img src="archive/images/2026-05-26/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 5/26 x1  ·  <img src="archive/images/2026-05-26/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x1 |
 
 | 5/27/2026 | <img src="archive/images/2026-05-27/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 5/27 500  ·  <img src="archive/images/2026-05-27/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
+
+| 5/28/2026 | <img src="archive/images/2026-05-28/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 5/28 1  ·  <img src="archive/images/2026-05-28/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
