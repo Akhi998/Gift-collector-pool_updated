@@ -29,3 +29,5 @@
 | 6/1/2026 | <img src="archive/images/2026-06-01/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/1 500  ·  <img src="archive/images/2026-06-01/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
 
 | 6/2/2026 | <img src="archive/images/2026-06-02/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/2 1  ·  <img src="archive/images/2026-06-02/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
+
+| 6/3/2026 | <img src="archive/images/2026-06-03/b4fa3a9b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/3 x30  ·  <img src="archive/images/2026-06-03/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
