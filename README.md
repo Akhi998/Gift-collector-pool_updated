@@ -49,3 +49,5 @@
 | 6/11/2026 | <img src="archive/images/2026-06-11/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
 
 | 6/12/2026 | <img src="archive/images/2026-06-12/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x2 |
+
+| 6/13/2026 | <img src="archive/images/2026-06-13/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x1 |
