@@ -75,7 +75,7 @@ export const collectRewards = async (userUniqueID) => {
         document.querySelectorAll(".product-list-item button")
       );
 
-      return buttons.find(btn =>
+      return buttons.find(btn => {
       const text = (btn.innerText || "").toUpperCase();
       return text.includes("FREE") || text.includes("CLAIM");
       ) || null;
