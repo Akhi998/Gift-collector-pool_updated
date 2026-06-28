@@ -76,8 +76,8 @@ export const collectRewards = async (userUniqueID) => {
       );
 
       return buttons.find(btn =>
-        btn.innerText &&
-        btn.innerText.toUpperCase().includes("FREE")
+      const text = (btn.innerText || "").toUpperCase();
+      return text.includes("FREE") || text.includes("CLAIM");
       ) || null;
     });
 
@@ -154,7 +154,11 @@ export const collectRewards = async (userUniqueID) => {
 
       // Wait until button changes from FREE (more stable)
       await page.waitForFunction(
-        (btn) => btn && !btn.innerText.toUpperCase().includes("FREE"),
+        (btn) => {
+          if (!btn) return true;
+          const text = (btn.innerText || "").toUpperCase();
+          return !text.includes("FREE") && !text.includes("CLAIM");
+        },
         {},
         freeButton
       ).catch(() => {});
