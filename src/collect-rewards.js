@@ -76,8 +76,12 @@ export const collectRewards = async (userUniqueID) => {
       );
     
       return buttons.find(btn => {
-        const text = (btn.innerText || "").toUpperCase();
-        return text.includes("FREE") || text.includes("CLAIM");
+        const text = (btn.innerText || "")
+          .replace(/\s+/g, " ")
+          .trim()
+          .toUpperCase();
+      
+        return text === "FREE" || text === "CLAIM";
       }) || null;
     });
 
@@ -157,7 +161,7 @@ export const collectRewards = async (userUniqueID) => {
         (btn) => {
           if (!btn) return true;
           const text = (btn.innerText || "").toUpperCase();
-          return !text.includes("FREE") && !text.includes("CLAIM");
+          return text === "CLAIMED";
         },
         {},
         freeButton
