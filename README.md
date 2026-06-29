@@ -57,3 +57,5 @@
 | 6/15/2026 | <img src="archive/images/2026-06-15/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
 
 | 6/29/2026 | <img src="archive/images/2026-06-29/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/29 500 |
+
+| 6/29/2026 | <img src="archive/images/2026-06-29/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/29 500 |
