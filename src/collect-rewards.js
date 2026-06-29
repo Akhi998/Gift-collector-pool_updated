@@ -74,11 +74,11 @@ export const collectRewards = async (userUniqueID) => {
       const buttons = Array.from(
         document.querySelectorAll(".product-list-item button")
       );
-
-      return buttons.find(btn => 
-      const text = (btn.innerText || "").toUpperCase();
-      return text.includes("FREE") || text.includes("CLAIM");
-      ) || null;
+    
+      return buttons.find(btn => {
+        const text = (btn.innerText || "").toUpperCase();
+        return text.includes("FREE") || text.includes("CLAIM");
+      }) || null;
     });
 
     const freeButton = freeButtonHandle.asElement();
