@@ -26,38 +26,4 @@
 | Date | Rewards |
 | :---: | :---: |
 
-| 6/1/2026 | <img src="archive/images/2026-06-01/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/1 500  ·  <img src="archive/images/2026-06-01/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
-
-| 6/2/2026 | <img src="archive/images/2026-06-02/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/2 1  ·  <img src="archive/images/2026-06-02/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
-
-| 6/3/2026 | <img src="archive/images/2026-06-03/b4fa3a9b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/3 x30  ·  <img src="archive/images/2026-06-03/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
-
-| 6/4/2026 | <img src="archive/images/2026-06-04/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/4 1  ·  <img src="archive/images/2026-06-04/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
-
-| 6/5/2026 | <img src="archive/images/2026-06-05/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/5 x1  ·  <img src="archive/images/2026-06-05/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x2 |
-
-| 6/6/2026 | <img src="archive/images/2026-06-06/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/6 1  ·  <img src="archive/images/2026-06-06/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
-
-| 6/7/2026 | <img src="archive/images/2026-06-07/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/7 x1  ·  <img src="archive/images/2026-06-07/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
-
-| 6/8/2026 | <img src="archive/images/2026-06-08/ca13cc8d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/8 x1  ·  <img src="archive/images/2026-06-08/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
-
-| 6/9/2026 | <img src="archive/images/2026-06-09/77747217.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/9 x1  ·  <img src="archive/images/2026-06-09/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
-
-| 6/10/2026 | <img src="archive/images/2026-06-10/9c85639c.png" width="90" style="vertical-align:middle; margin-right:6px;" />Bronze Random Collection Box x1  ·  <img src="archive/images/2026-06-10/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
-
-| 6/11/2026 | <img src="archive/images/2026-06-11/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
-
-| 6/12/2026 | <img src="archive/images/2026-06-12/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x2 |
-
-| 6/13/2026 | <img src="archive/images/2026-06-13/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x1 |
-
-| 6/14/2026 | <img src="archive/images/2026-06-14/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
-
-| 6/15/2026 | <img src="archive/images/2026-06-15/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
-
-| 6/29/2026 | <img src="archive/images/2026-06-29/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/29 500 |
-
-| 6/29/2026 | <img src="archive/images/2026-06-29/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/29 500 |
-
-| 6/30/2026 | <img src="archive/images/2026-06-30/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 6/30 1 |
+| 7/1/2026 | <img src="archive/images/2026-07-01/f4d488bf.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/01 x30 |
