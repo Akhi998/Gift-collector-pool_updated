@@ -29,3 +29,5 @@
 | 7/1/2026 | <img src="archive/images/2026-07-01/f4d488bf.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/01 x30 |
 
 | 7/2/2026 | <img src="archive/images/2026-07-02/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/02 1  ·  <img src="archive/images/2026-07-02/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
+
+| 7/3/2026 | <img src="archive/images/2026-07-03/5e573882.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/03 x1  ·  <img src="archive/images/2026-07-03/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x2 |
