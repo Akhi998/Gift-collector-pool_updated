@@ -37,3 +37,5 @@
 | 7/5/2026 | <img src="archive/images/2026-07-05/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/05 x1  ·  <img src="archive/images/2026-07-05/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
 
 | 7/6/2026 | <img src="archive/images/2026-07-06/ca13cc8d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/06 x1  ·  <img src="archive/images/2026-07-06/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
+
+| 7/7/2026 | <img src="archive/images/2026-07-07/77747217.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/07 x1  ·  <img src="archive/images/2026-07-07/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
