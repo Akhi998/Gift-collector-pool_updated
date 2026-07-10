@@ -43,3 +43,5 @@
 | 7/8/2026 | <img src="archive/images/2026-07-08/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/8 x1  ·  <img src="archive/images/2026-07-08/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
 
 | 7/9/2026 | <img src="archive/images/2026-07-09/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/9 1  ·  <img src="archive/images/2026-07-09/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x1 |
+
+| 7/10/2026 | <img src="archive/images/2026-07-10/9c85639c.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/10 x1  ·  <img src="archive/images/2026-07-10/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x2 |
