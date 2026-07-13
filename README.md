@@ -49,3 +49,5 @@
 | 7/11/2026 | <img src="archive/images/2026-07-11/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/11 500  ·  <img src="archive/images/2026-07-11/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
 
 | 7/12/2026 | <img src="archive/images/2026-07-12/d2756c4e.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/12 x1  ·  <img src="archive/images/2026-07-12/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
+
+| 7/13/2026 | <img src="archive/images/2026-07-13/39de41e3.png" width="90" style="vertical-align:middle; margin-right:6px;" />FREE COUNTRY BOX x1  ·  <img src="archive/images/2026-07-13/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/13 500  ·  <img src="archive/images/2026-07-13/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
