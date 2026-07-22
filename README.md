@@ -67,3 +67,5 @@
 | 7/20/2026 | <img src="archive/images/2026-07-20/5ca2e3e7.data" width="90" style="vertical-align:middle; margin-right:6px;" />FREE COUNTRY CUE x1  ·  <img src="archive/images/2026-07-20/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/20 500  ·  <img src="archive/images/2026-07-20/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
 
 | 7/21/2026 | <img src="archive/images/2026-07-21/5ca2e3e7.data" width="90" style="vertical-align:middle; margin-right:6px;" />FREE COUNTRY CUE x1  ·  <img src="archive/images/2026-07-21/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/21 1  ·  <img src="archive/images/2026-07-21/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
+
+| 7/22/2026 | <img src="archive/images/2026-07-22/38a7cadf.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/22 x30  ·  <img src="archive/images/2026-07-22/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
