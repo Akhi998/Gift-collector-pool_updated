@@ -75,3 +75,5 @@
 | 7/24/2026 | <img src="archive/images/2026-07-24/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/24 x1  ·  <img src="archive/images/2026-07-24/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x2 |
 
 | 7/25/2026 | <img src="archive/images/2026-07-25/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/25 1  ·  <img src="archive/images/2026-07-25/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x1 |
+
+| 7/26/2026 | <img src="archive/images/2026-07-26/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/26 x1  ·  <img src="archive/images/2026-07-26/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
