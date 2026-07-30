@@ -83,3 +83,5 @@
 | 7/28/2026 | <img src="archive/images/2026-07-28/77747217.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 7/28 x1  ·  <img src="archive/images/2026-07-28/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
 
 | 7/29/2026 | <img src="archive/images/2026-07-29/9c85639c.png" width="90" style="vertical-align:middle; margin-right:6px;" />Bronze Random Collection Box x1  ·  <img src="archive/images/2026-07-29/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
+
+| 7/30/2026 | <img src="archive/images/2026-07-30/9c85639c.png" width="90" style="vertical-align:middle; margin-right:6px;" />Bronze Random Collection Box x1  ·  <img src="archive/images/2026-07-30/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
