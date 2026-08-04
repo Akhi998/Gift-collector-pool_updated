@@ -31,3 +31,5 @@
 | 8/2/2026 | <img src="archive/images/2026-08-02/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
 
 | 8/3/2026 | <img src="archive/images/2026-08-03/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
+
+| 8/4/2026 | Unknown   ·  <img src="archive/images/2026-08-04/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
