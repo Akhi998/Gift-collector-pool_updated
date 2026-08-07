@@ -37,3 +37,5 @@
 | 8/5/2026 | <img src="archive/images/2026-08-05/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/5 x1  ·  <img src="archive/images/2026-08-05/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x1 |
 
 | 8/6/2026 | <img src="archive/images/2026-08-06/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/6 1  ·  <img src="archive/images/2026-08-06/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
+
+| 8/7/2026 | <img src="archive/images/2026-08-07/9c85639c.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward -  8/7 x1  ·  <img src="archive/images/2026-08-07/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x2 |
