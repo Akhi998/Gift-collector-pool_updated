@@ -41,3 +41,5 @@
 | 8/7/2026 | <img src="archive/images/2026-08-07/9c85639c.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward -  8/7 x1  ·  <img src="archive/images/2026-08-07/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x2 |
 
 | 8/8/2026 | <img src="archive/images/2026-08-08/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward -  8/8 500  ·  <img src="archive/images/2026-08-08/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
+
+| 8/9/2026 | <img src="archive/images/2026-08-09/d2756c4e.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward -  8/9 x1  ·  <img src="archive/images/2026-08-09/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
