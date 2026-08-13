@@ -49,3 +49,5 @@
 | 8/11/2026 | <img src="archive/images/2026-08-11/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/11 x1  ·  <img src="archive/images/2026-08-11/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
 
 | 8/12/2026 | <img src="archive/images/2026-08-12/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/12 500  ·  <img src="archive/images/2026-08-12/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
+
+| 8/13/2026 | <img src="archive/images/2026-08-13/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/13 1  ·  <img src="archive/images/2026-08-13/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
