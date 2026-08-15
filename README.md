@@ -53,3 +53,5 @@
 | 8/13/2026 | <img src="archive/images/2026-08-13/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/13 1  ·  <img src="archive/images/2026-08-13/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
 
 | 8/14/2026 | <img src="archive/images/2026-08-14/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/14 x1  ·  <img src="archive/images/2026-08-14/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x2 |
+
+| 8/15/2026 | <img src="archive/images/2026-08-15/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/15 x1  ·  <img src="archive/images/2026-08-15/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
