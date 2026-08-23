@@ -69,3 +69,5 @@
 | 8/21/2026 | <img src="archive/images/2026-08-21/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/21 x1  ·  <img src="archive/images/2026-08-21/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x2 |
 
 | 8/22/2026 | <img src="archive/images/2026-08-22/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/22 1  ·  <img src="archive/images/2026-08-22/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
+
+| 8/23/2026 | <img src="archive/images/2026-08-23/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/23 x1  ·  <img src="archive/images/2026-08-23/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
