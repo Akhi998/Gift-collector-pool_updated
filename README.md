@@ -73,3 +73,5 @@
 | 8/23/2026 | <img src="archive/images/2026-08-23/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/23 x1  ·  <img src="archive/images/2026-08-23/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
 
 | 8/24/2026 | <img src="archive/images/2026-08-24/ca13cc8d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/24 x1  ·  <img src="archive/images/2026-08-24/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
+
+| 8/25/2026 | <img src="archive/images/2026-08-25/77747217.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/25 x1  ·  <img src="archive/images/2026-08-25/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
