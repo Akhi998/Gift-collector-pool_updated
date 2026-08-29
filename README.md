@@ -61,3 +61,5 @@
 | 8/27/2026 | <img src="archive/images/2026-08-27/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/27 1  ·  <img src="archive/images/2026-08-27/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
 
 | 8/28/2026 | <img src="archive/images/2026-08-28/9c85639c.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/28 x1 |
+
+| 8/29/2026 | <img src="archive/images/2026-08-29/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/29 500 |
