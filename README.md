@@ -65,3 +65,5 @@
 | 8/29/2026 | <img src="archive/images/2026-08-29/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/29 500 |
 
 | 8/30/2026 | <img src="archive/images/2026-08-30/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/30 x1 |
+
+| 8/31/2026 | <img src="archive/images/2026-08-31/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 8/31 1 |
