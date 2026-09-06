@@ -35,3 +35,5 @@
 | 9/4/2026 | <img src="archive/images/2026-09-04/8bf7b894.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/4 x30  ·  <img src="archive/images/2026-09-04/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x2 |
 
 | 9/5/2026 | <img src="archive/images/2026-09-05/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/5 1  ·  <img src="archive/images/2026-09-05/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
+
+| 9/6/2026 | <img src="archive/images/2026-09-06/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/6 x1  ·  <img src="archive/images/2026-09-06/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
