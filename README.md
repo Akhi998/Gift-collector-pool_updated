@@ -49,3 +49,5 @@
 | 9/11/2026 | <img src="archive/images/2026-09-11/9c85639c.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/11 x1  ·  <img src="archive/images/2026-09-11/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x2 |
 
 | 9/12/2026 | <img src="archive/images/2026-09-12/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/12 500  ·  <img src="archive/images/2026-09-12/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
+
+| 9/13/2026 | <img src="archive/images/2026-09-13/d2756c4e.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/13 x1  ·  <img src="archive/images/2026-09-13/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
