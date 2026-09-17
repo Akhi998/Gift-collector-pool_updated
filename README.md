@@ -57,3 +57,5 @@
 | 9/15/2026 | <img src="archive/images/2026-09-15/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/15 x1  ·  <img src="archive/images/2026-09-15/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
 
 | 9/16/2026 | <img src="archive/images/2026-09-16/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/16 500  ·  <img src="archive/images/2026-09-16/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
+
+| 9/17/2026 | <img src="archive/images/2026-09-17/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/17 1  ·  <img src="archive/images/2026-09-17/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
