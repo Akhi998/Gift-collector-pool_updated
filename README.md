@@ -61,3 +61,5 @@
 | 9/17/2026 | <img src="archive/images/2026-09-17/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/17 1  ·  <img src="archive/images/2026-09-17/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
 
 | 9/18/2026 | <img src="archive/images/2026-09-18/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/18 x1  ·  <img src="archive/images/2026-09-18/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x2 |
+
+| 9/19/2026 | <img src="archive/images/2026-09-19/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
