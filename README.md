@@ -73,3 +73,5 @@
 | 9/23/2026 | <img src="archive/images/2026-09-23/b5312e4e.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 9/23 x30  ·  <img src="archive/images/2026-09-23/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x1 |
 
 | 9/24/2026 | <img src="archive/images/2026-09-24/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
+
+| 9/25/2026 | <img src="archive/images/2026-09-25/5ca2e3e7.data" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x2 |
