@@ -81,3 +81,5 @@
 | 9/27/2026 | <img src="archive/images/2026-09-27/5ca2e3e7.data" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
 
 | 9/28/2026 | <img src="archive/images/2026-09-28/5ca2e3e7.data" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
+
+| 9/29/2026 | <img src="archive/images/2026-09-29/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
