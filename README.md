@@ -83,3 +83,5 @@
 | 9/28/2026 | <img src="archive/images/2026-09-28/5ca2e3e7.data" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
 
 | 9/29/2026 | <img src="archive/images/2026-09-29/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
+
+| 9/30/2026 | <img src="archive/images/2026-09-30/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 9/30 x1  ·  <img src="archive/images/2026-09-30/07d56b15.png" width="90" style="vertical-align:middle; margin-right:6px;" />Bronze Moonlight Collection Box x1  ·  <img src="archive/images/2026-09-30/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x1 |
