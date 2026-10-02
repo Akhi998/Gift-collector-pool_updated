@@ -27,3 +27,5 @@
 | :---: | :---: |
 
 | 10/1/2026 | <img src="archive/images/2026-10-01/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/1 x1  ·  <img src="archive/images/2026-10-01/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
+
+| 10/2/2026 | <img src="archive/images/2026-10-02/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/2 x1  ·  <img src="archive/images/2026-10-02/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x2 |
