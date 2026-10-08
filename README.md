@@ -39,3 +39,5 @@
 | 10/6/2026 | <img src="archive/images/2026-10-06/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/6 x1  ·  <img src="archive/images/2026-10-06/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
 
 | 10/7/2026 | <img src="archive/images/2026-10-07/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/7 x1  ·  <img src="archive/images/2026-10-07/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 10/7 x1  ·  <img src="archive/images/2026-10-07/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
+
+| 10/8/2026 | <img src="archive/images/2026-10-08/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/8 x1  ·  <img src="archive/images/2026-10-08/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 10/8 1  ·  <img src="archive/images/2026-10-08/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
