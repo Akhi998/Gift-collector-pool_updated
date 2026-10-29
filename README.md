@@ -81,3 +81,5 @@
 | 10/27/2026 | <img src="archive/images/2026-10-27/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/27 x1  ·  <img src="archive/images/2026-10-27/77747217.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 10/27 x1  ·  <img src="archive/images/2026-10-27/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x1 |
 
 | 10/28/2026 | <img src="archive/images/2026-10-28/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/28 x1  ·  <img src="archive/images/2026-10-28/07d56b15.png" width="90" style="vertical-align:middle; margin-right:6px;" />Bronze Moonlight Collection Box x1  ·  <img src="archive/images/2026-10-28/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
+
+| 10/29/2026 | <img src="archive/images/2026-10-29/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/29 x1  ·  <img src="archive/images/2026-10-29/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
