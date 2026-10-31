@@ -85,3 +85,5 @@
 | 10/29/2026 | <img src="archive/images/2026-10-29/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/29 x1  ·  <img src="archive/images/2026-10-29/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
 
 | 10/30/2026 | <img src="archive/images/2026-10-30/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/30 x1  ·  <img src="archive/images/2026-10-30/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x2 |
+
+| 10/31/2026 | <img src="archive/images/2026-10-31/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/31 x1  ·  <img src="archive/images/2026-10-31/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
