@@ -29,3 +29,5 @@
 | 11/1/2026 | <img src="archive/images/2026-11-01/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 10/31 x1  ·  <img src="archive/images/2026-11-01/eee6d28d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Trickster Cue Piece x1 |
 
 | 11/2/2026 | <img src="archive/images/2026-11-02/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 11/1 x1  ·  <img src="archive/images/2026-11-02/bfdbd72f.png" width="90" style="vertical-align:middle; margin-right:6px;" />Gamechanger Cue Piece x1 |
+
+| 11/3/2026 | <img src="archive/images/2026-11-03/5fadbc16.png" width="90" style="vertical-align:middle; margin-right:6px;" />Card Box - 11/2 x1  ·  <img src="archive/images/2026-11-03/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
