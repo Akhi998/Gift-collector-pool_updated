@@ -39,3 +39,5 @@
 | 11/6/2026 | <img src="archive/images/2026-11-06/eae5eb40.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/6 x1  ·  <img src="archive/images/2026-11-06/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x2 |
 
 | 11/7/2026 | <img src="archive/images/2026-11-07/e400715b.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/7 500  ·  <img src="archive/images/2026-11-07/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
+
+| 11/8/2026 | <img src="archive/images/2026-11-08/d2756c4e.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/8 x1  ·  <img src="archive/images/2026-11-08/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
