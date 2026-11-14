@@ -51,3 +51,5 @@
 | 11/12/2026 | <img src="archive/images/2026-11-12/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/12 1  ·  <img src="archive/images/2026-11-12/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
 
 | 11/13/2026 | <img src="archive/images/2026-11-13/49459593.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/13 x1  ·  <img src="archive/images/2026-11-13/0e1f2491.png" width="90" style="vertical-align:middle; margin-right:6px;" />Opti Shot Cue Piece x2 |
+
+| 11/14/2026 | <img src="archive/images/2026-11-14/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/14 x1  ·  <img src="archive/images/2026-11-14/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
