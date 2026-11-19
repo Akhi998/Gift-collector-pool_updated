@@ -61,3 +61,5 @@
 | 11/17/2026 | <img src="archive/images/2026-11-17/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/17 1  ·  <img src="archive/images/2026-11-17/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
 
 | 11/18/2026 | <img src="archive/images/2026-11-18/48faaf0d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/18 x30  ·  <img src="archive/images/2026-11-18/a2781179.png" width="90" style="vertical-align:middle; margin-right:6px;" />Power Break Cue Piece x1 |
+
+| 11/19/2026 | <img src="archive/images/2026-11-19/7f5e61ad.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/19 1  ·  <img src="archive/images/2026-11-19/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
