@@ -73,3 +73,5 @@
 | 11/24/2026 | <img src="archive/images/2026-11-24/ca13cc8d.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/23 x1  ·  <img src="archive/images/2026-11-24/783156c8.png" width="90" style="vertical-align:middle; margin-right:6px;" />Spin Wizard Cue Piece x1 |
 
 | 11/24/2026 | <img src="archive/images/2026-11-24/77747217.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/24 x1  ·  <img src="archive/images/2026-11-24/cad66ade.png" width="90" style="vertical-align:middle; margin-right:6px;" />Legacy Strike Cue Piece x1 |
+
+| 11/25/2026 | <img src="archive/images/2026-11-25/c3de7500.png" width="90" style="vertical-align:middle; margin-right:6px;" />Reward Bundle x3  ·  <img src="archive/images/2026-11-25/4fa7fb60.png" width="90" style="vertical-align:middle; margin-right:6px;" />Daily Reward - 11/25 x1  ·  <img src="archive/images/2026-11-25/d7b58a94.png" width="90" style="vertical-align:middle; margin-right:6px;" />Cheer Fest - 11/25 x1  ·  <img src="archive/images/2026-11-25/7aa63a48.png" width="90" style="vertical-align:middle; margin-right:6px;" />Strike Zone Cue Piece x1 |
